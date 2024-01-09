@@ -1,2 +1,3 @@
 #!/bin/bash
-chmod rwxXst -R .
+chmod +x add_execute_permission.sh
+
